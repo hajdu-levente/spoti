@@ -1,0 +1,1606 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?offset=0&limit=50&query=csillag&type=artist",
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/search?offset=50&limit=50&query=csillag&type=artist",
+    "offset": 0,
+    "previous": null,
+    "total": 840,
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1BxM4PiFJz1ElqVnBmB0oe"
+        },
+        "followers": {
+          "href": null,
+          "total": 557
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1BxM4PiFJz1ElqVnBmB0oe",
+        "id": "1BxM4PiFJz1ElqVnBmB0oe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273501586a8b4f69e54b667dda6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02501586a8b4f69e54b667dda6",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851501586a8b4f69e54b667dda6",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillagrabl\u00f3k",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:1BxM4PiFJz1ElqVnBmB0oe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        "followers": {
+          "href": null,
+          "total": 246929
+        },
+        "genres": [
+          "hungarian hip hop",
+          "hungarian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4dqqy9z09htrVsRiJpoQmw",
+        "id": "4dqqy9z09htrVsRiJpoQmw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb8867dac902e60d471698923a",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051748867dac902e60d471698923a",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1788867dac902e60d471698923a",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "DESH",
+        "popularity": 66,
+        "type": "artist",
+        "uri": "spotify:artist:4dqqy9z09htrVsRiJpoQmw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zOygJLYgj1udn4jTbj8vQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 116
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5zOygJLYgj1udn4jTbj8vQ",
+        "id": "5zOygJLYgj1udn4jTbj8vQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb50a24ee19ceb0a831ebbed97",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000517450a24ee19ceb0a831ebbed97",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f17850a24ee19ceb0a831ebbed97",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Csillagerd\u0151",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:5zOygJLYgj1udn4jTbj8vQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5x8clQZ7A9Ih2MuI0IXPD9"
+        },
+        "followers": {
+          "href": null,
+          "total": 101
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5x8clQZ7A9Ih2MuI0IXPD9",
+        "id": "5x8clQZ7A9Ih2MuI0IXPD9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739318c2c585f9a162a4b9a8b1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029318c2c585f9a162a4b9a8b1",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519318c2c585f9a162a4b9a8b1",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillag Endre",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:5x8clQZ7A9Ih2MuI0IXPD9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        "followers": {
+          "href": null,
+          "total": 217943
+        },
+        "genres": [
+          "hungarian edm",
+          "hungarian hip hop",
+          "hungarian pop",
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5Zwlr28h134D0OzxzUfVCA",
+        "id": "5Zwlr28h134D0OzxzUfVCA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebb7e85e82719c68ef51fd0ed6",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174b7e85e82719c68ef51fd0ed6",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178b7e85e82719c68ef51fd0ed6",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "BSW",
+        "popularity": 57,
+        "type": "artist",
+        "uri": "spotify:artist:5Zwlr28h134D0OzxzUfVCA"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ooAndPlgSEAIDMoNFKyXd"
+        },
+        "followers": {
+          "href": null,
+          "total": 4
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5ooAndPlgSEAIDMoNFKyXd",
+        "id": "5ooAndPlgSEAIDMoNFKyXd",
+        "images": [],
+        "name": "Csillagk\u00f3rus",
+        "popularity": 7,
+        "type": "artist",
+        "uri": "spotify:artist:5ooAndPlgSEAIDMoNFKyXd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        "followers": {
+          "href": null,
+          "total": 70865
+        },
+        "genres": [
+          "hungarian hip hop",
+          "hungarian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0zmW213tzA7NFv6ESRso7N",
+        "id": "0zmW213tzA7NFv6ESRso7N",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebad83507342f60a9f03a22bdf",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174ad83507342f60a9f03a22bdf",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178ad83507342f60a9f03a22bdf",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Young Fly",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:0zmW213tzA7NFv6ESRso7N"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/10dJdLX0jKqee5Fn0VxMA5"
+        },
+        "followers": {
+          "href": null,
+          "total": 2524
+        },
+        "genres": [
+          "balkan brass",
+          "gypsy"
+        ],
+        "href": "https://api.spotify.com/v1/artists/10dJdLX0jKqee5Fn0VxMA5",
+        "id": "10dJdLX0jKqee5Fn0VxMA5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec1dfd29679dff8070af1b24",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec1dfd29679dff8070af1b24",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ec1dfd29679dff8070af1b24",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Kanizsa Csillagai",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:10dJdLX0jKqee5Fn0VxMA5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        "followers": {
+          "href": null,
+          "total": 161845
+        },
+        "genres": [
+          "hungarian pop",
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6lZA0phZLDcwn6k9ElfESM",
+        "id": "6lZA0phZLDcwn6k9ElfESM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebab4891870c232c8af92e96c8",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174ab4891870c232c8af92e96c8",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178ab4891870c232c8af92e96c8",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "ekhoe",
+        "popularity": 56,
+        "type": "artist",
+        "uri": "spotify:artist:6lZA0phZLDcwn6k9ElfESM"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5whprBWlbfkdiGlWe2rjIP"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5whprBWlbfkdiGlWe2rjIP",
+        "id": "5whprBWlbfkdiGlWe2rjIP",
+        "images": [],
+        "name": "Anna Csillag",
+        "popularity": 12,
+        "type": "artist",
+        "uri": "spotify:artist:5whprBWlbfkdiGlWe2rjIP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        "followers": {
+          "href": null,
+          "total": 67166
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0x57YRyWq4ke3e1Sd9E7SV",
+        "id": "0x57YRyWq4ke3e1Sd9E7SV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb7e95c2d538fc79698d4c3bbb",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051747e95c2d538fc79698d4c3bbb",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1787e95c2d538fc79698d4c3bbb",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "VZS",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:0x57YRyWq4ke3e1Sd9E7SV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2XJwG0eDiQJUrwD9NjqXNe"
+        },
+        "followers": {
+          "href": null,
+          "total": 298
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2XJwG0eDiQJUrwD9NjqXNe",
+        "id": "2XJwG0eDiQJUrwD9NjqXNe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c60d0307b0baf5aa34a79779",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c60d0307b0baf5aa34a79779",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c60d0307b0baf5aa34a79779",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Kanizsa Csillagai",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:2XJwG0eDiQJUrwD9NjqXNe"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        "followers": {
+          "href": null,
+          "total": 157744
+        },
+        "genres": [
+          "hungarian hip hop",
+          "hungarian pop",
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3PMRY3PR5xAe5UpRfPPuaG",
+        "id": "3PMRY3PR5xAe5UpRfPPuaG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb20f975578f5643d0e524766b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000517420f975578f5643d0e524766b",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f17820f975578f5643d0e524766b",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Dzs\u00fadl\u00f3",
+        "popularity": 56,
+        "type": "artist",
+        "uri": "spotify:artist:3PMRY3PR5xAe5UpRfPPuaG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5jKOSuvI4qfiZ5lawku1J4"
+        },
+        "followers": {
+          "href": null,
+          "total": 1300
+        },
+        "genres": [
+          "magyar retro dance"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5jKOSuvI4qfiZ5lawku1J4",
+        "id": "5jKOSuvI4qfiZ5lawku1J4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d467dbb1cb94a4f87f4e655",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022d467dbb1cb94a4f87f4e655",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512d467dbb1cb94a4f87f4e655",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csilla Auth",
+        "popularity": 20,
+        "type": "artist",
+        "uri": "spotify:artist:5jKOSuvI4qfiZ5lawku1J4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5dvJ7d3fup6Sw6WhGK7BTc"
+        },
+        "followers": {
+          "href": null,
+          "total": 11858
+        },
+        "genres": [
+          "gyerekdalok",
+          "hungarian folk"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5dvJ7d3fup6Sw6WhGK7BTc",
+        "id": "5dvJ7d3fup6Sw6WhGK7BTc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735fcd21943981a3904b42b954",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025fcd21943981a3904b42b954",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515fcd21943981a3904b42b954",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Gryllus Vilmos",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:5dvJ7d3fup6Sw6WhGK7BTc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        },
+        "followers": {
+          "href": null,
+          "total": 184348
+        },
+        "genres": [
+          "hungarian hip hop",
+          "hungarian pop",
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6u7q0ZGK0oilVYx4kqIk3E",
+        "id": "6u7q0ZGK0oilVYx4kqIk3E",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb3f7d0ca4de3afab1f84dd6d5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051743f7d0ca4de3afab1f84dd6d5",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1783f7d0ca4de3afab1f84dd6d5",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Kr\u00fabi",
+        "popularity": 51,
+        "type": "artist",
+        "uri": "spotify:artist:6u7q0ZGK0oilVYx4kqIk3E"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7DErVd9eCwmO7F1T8DkkG1"
+        },
+        "followers": {
+          "href": null,
+          "total": 11
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7DErVd9eCwmO7F1T8DkkG1",
+        "id": "7DErVd9eCwmO7F1T8DkkG1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb42daa4eaa751bb32661a31f4",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000517442daa4eaa751bb32661a31f4",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f17842daa4eaa751bb32661a31f4",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Csillagfr\u00f6ccs",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:7DErVd9eCwmO7F1T8DkkG1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        },
+        "followers": {
+          "href": null,
+          "total": 23040
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7nU1fhLUpYpzilqF5QkVdX",
+        "id": "7nU1fhLUpYpzilqF5QkVdX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb0982251975840e039f030c22",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051740982251975840e039f030c22",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1780982251975840e039f030c22",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Feh\u00e9r Kriszti\u00e1n",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:7nU1fhLUpYpzilqF5QkVdX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1IAKefL4qOMGmOnd7YvY9l"
+        },
+        "followers": {
+          "href": null,
+          "total": 119
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1IAKefL4qOMGmOnd7YvY9l",
+        "id": "1IAKefL4qOMGmOnd7YvY9l",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cb3e7ec9cf16533a3c83bf95",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cb3e7ec9cf16533a3c83bf95",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cb3e7ec9cf16533a3c83bf95",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillags\u00f3lyom",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:1IAKefL4qOMGmOnd7YvY9l"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        "followers": {
+          "href": null,
+          "total": 90533
+        },
+        "genres": [
+          "hungarian hip hop",
+          "hungarian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0Qld3F5Dr62sYbuivSzEMw",
+        "id": "0Qld3F5Dr62sYbuivSzEMw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb2b8b9fdf6567fc13c50af22b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051742b8b9fdf6567fc13c50af22b",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1782b8b9fdf6567fc13c50af22b",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Mario",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:0Qld3F5Dr62sYbuivSzEMw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6gWJjKal0H0hyhk4OhhWJI"
+        },
+        "followers": {
+          "href": null,
+          "total": 5
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6gWJjKal0H0hyhk4OhhWJI",
+        "id": "6gWJjKal0H0hyhk4OhhWJI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320b36c877b56a755fa9e99e1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220b36c877b56a755fa9e99e1",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120b36c877b56a755fa9e99e1",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Endre Csillag",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:6gWJjKal0H0hyhk4OhhWJI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
+        },
+        "followers": {
+          "href": null,
+          "total": 17832
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7MiVTMPyOXp6jr9H3mFHBb",
+        "id": "7MiVTMPyOXp6jr9H3mFHBb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb25786174b19268c4fc47cdb9",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000517425786174b19268c4fc47cdb9",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f17825786174b19268c4fc47cdb9",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "HENN",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:7MiVTMPyOXp6jr9H3mFHBb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2OnB3EdocK7OsSetZCm5es"
+        },
+        "followers": {
+          "href": null,
+          "total": 2
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2OnB3EdocK7OsSetZCm5es",
+        "id": "2OnB3EdocK7OsSetZCm5es",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732a50625cd6b703cd7d42f75b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022a50625cd6b703cd7d42f75b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512a50625cd6b703cd7d42f75b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Ragyogj, ragyogj, kis csillag",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:2OnB3EdocK7OsSetZCm5es"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        "followers": {
+          "href": null,
+          "total": 78583
+        },
+        "genres": [
+          "hungarian pop",
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/35BhE5C6szF898n5WgUSgO",
+        "id": "35BhE5C6szF898n5WgUSgO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb1c067d299f2a5e383b6b9681",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051741c067d299f2a5e383b6b9681",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1781c067d299f2a5e383b6b9681",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Burai",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:35BhE5C6szF898n5WgUSgO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5UkbvVIGhlaYbGQWCVSTki"
+        },
+        "followers": {
+          "href": null,
+          "total": 25
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5UkbvVIGhlaYbGQWCVSTki",
+        "id": "5UkbvVIGhlaYbGQWCVSTki",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe878d7fedd210f802ba14ba",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe878d7fedd210f802ba14ba",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fe878d7fedd210f802ba14ba",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillag K\u00f3rus",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:5UkbvVIGhlaYbGQWCVSTki"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        },
+        "followers": {
+          "href": null,
+          "total": 30012
+        },
+        "genres": [
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7roOHVUjZASn8tsyBoyn7C",
+        "id": "7roOHVUjZASn8tsyBoyn7C",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb5f8aec1b20db4d7cfe4d7b81",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051745f8aec1b20db4d7cfe4d7b81",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1785f8aec1b20db4d7cfe4d7b81",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Grasa",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:7roOHVUjZASn8tsyBoyn7C"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/00oMOHsJZGHEXpEtwNilLI"
+        },
+        "followers": {
+          "href": null,
+          "total": 166
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/00oMOHsJZGHEXpEtwNilLI",
+        "id": "00oMOHsJZGHEXpEtwNilLI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f0da7ddf8db8b93830228763",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f0da7ddf8db8b93830228763",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f0da7ddf8db8b93830228763",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Auth Csilla",
+        "popularity": 12,
+        "type": "artist",
+        "uri": "spotify:artist:00oMOHsJZGHEXpEtwNilLI"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ"
+        },
+        "followers": {
+          "href": null,
+          "total": 127704
+        },
+        "genres": [
+          "hungarian pop",
+          "hungarian underground rap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/51o7b8jVB4q5U9qy41aYwJ",
+        "id": "51o7b8jVB4q5U9qy41aYwJ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb0f8ecc7f67eb89c77132e8dc",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051740f8ecc7f67eb89c77132e8dc",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1780f8ecc7f67eb89c77132e8dc",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "G.w.M",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:51o7b8jVB4q5U9qy41aYwJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2DxWndOFCz4pMaGh08pqVd"
+        },
+        "followers": {
+          "href": null,
+          "total": 11
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2DxWndOFCz4pMaGh08pqVd",
+        "id": "2DxWndOFCz4pMaGh08pqVd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737770609af4a8e1cb19d6a1ae",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027770609af4a8e1cb19d6a1ae",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517770609af4a8e1cb19d6a1ae",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Katalin Csillagh",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2DxWndOFCz4pMaGh08pqVd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        },
+        "followers": {
+          "href": null,
+          "total": 278078
+        },
+        "genres": [
+          "hungarian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1UIPahyz7pEKaU6RQvU3FC",
+        "id": "1UIPahyz7pEKaU6RQvU3FC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebe74063533c475d4e953d900e",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174e74063533c475d4e953d900e",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178e74063533c475d4e953d900e",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Follow The Flow",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:1UIPahyz7pEKaU6RQvU3FC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5w2n1WR9prtV2UQckDIPxi"
+        },
+        "followers": {
+          "href": null,
+          "total": 3
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5w2n1WR9prtV2UQckDIPxi",
+        "id": "5w2n1WR9prtV2UQckDIPxi",
+        "images": [],
+        "name": "Csillog",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:5w2n1WR9prtV2UQckDIPxi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4aXeIRAbV0aEn0NZVImnqO"
+        },
+        "followers": {
+          "href": null,
+          "total": 38075
+        },
+        "genres": [
+          "magyar trap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4aXeIRAbV0aEn0NZVImnqO",
+        "id": "4aXeIRAbV0aEn0NZVImnqO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc8da6240f00336637a89be45",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174c8da6240f00336637a89be45",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178c8da6240f00336637a89be45",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Kolg8eight",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:4aXeIRAbV0aEn0NZVImnqO"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3cOSjYFuniY2r36UpAEwZ1"
+        },
+        "followers": {
+          "href": null,
+          "total": 15
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3cOSjYFuniY2r36UpAEwZ1",
+        "id": "3cOSjYFuniY2r36UpAEwZ1",
+        "images": [],
+        "name": "P\u00e1mer Csilla",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:3cOSjYFuniY2r36UpAEwZ1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        },
+        "followers": {
+          "href": null,
+          "total": 431421
+        },
+        "genres": [
+          "hungarian edm",
+          "hungarian pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0D8reSG6hzc5KEQWZPYGFB",
+        "id": "0D8reSG6hzc5KEQWZPYGFB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/f0d72cc4066df2729351caa901b9d7d9f8864b2d",
+            "height": 1000,
+            "width": 1000
+          },
+          {
+            "url": "https://i.scdn.co/image/a9ca8e2b4cb326218f6d8203089a1ba262032ed4",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/f4441bd307bc7f07c64051d350d37f651266f0c4",
+            "height": 200,
+            "width": 200
+          },
+          {
+            "url": "https://i.scdn.co/image/1ba5c77790a9e7363d1df00e71e005d5072e4060",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Majka",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:0D8reSG6hzc5KEQWZPYGFB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4o3gXqRSVmrbv9lMkoDUPf"
+        },
+        "followers": {
+          "href": null,
+          "total": 3
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4o3gXqRSVmrbv9lMkoDUPf",
+        "id": "4o3gXqRSVmrbv9lMkoDUPf",
+        "images": [],
+        "name": "K\u00e9k Csillag",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:4o3gXqRSVmrbv9lMkoDUPf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
+        },
+        "followers": {
+          "href": null,
+          "total": 14570
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6RmLQbwTEDQrpIveY6gqtV",
+        "id": "6RmLQbwTEDQrpIveY6gqtV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebcf9b8832784d5790d7d25dad",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174cf9b8832784d5790d7d25dad",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178cf9b8832784d5790d7d25dad",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Csoky",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:6RmLQbwTEDQrpIveY6gqtV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6fIwRGSAgZPJVV1xvEfuaB"
+        },
+        "followers": {
+          "href": null,
+          "total": 226
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6fIwRGSAgZPJVV1xvEfuaB",
+        "id": "6fIwRGSAgZPJVV1xvEfuaB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730e348e7f0e7a2e2a3d6d8433",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020e348e7f0e7a2e2a3d6d8433",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510e348e7f0e7a2e2a3d6d8433",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csilla",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:6fIwRGSAgZPJVV1xvEfuaB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
+        },
+        "followers": {
+          "href": null,
+          "total": 17259
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1AyF8iJgMe4LMNe8bUM1Yo",
+        "id": "1AyF8iJgMe4LMNe8bUM1Yo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb458a0f8c9df3b6d369dd38ce",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174458a0f8c9df3b6d369dd38ce",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178458a0f8c9df3b6d369dd38ce",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "\u00d3tvar Pestis",
+        "popularity": 46,
+        "type": "artist",
+        "uri": "spotify:artist:1AyF8iJgMe4LMNe8bUM1Yo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13IsiEe5gCRFpWldWKQbht"
+        },
+        "followers": {
+          "href": null,
+          "total": 369
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/13IsiEe5gCRFpWldWKQbht",
+        "id": "13IsiEe5gCRFpWldWKQbht",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fbc613da3f3399ceec3e660c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fbc613da3f3399ceec3e660c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fbc613da3f3399ceec3e660c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Szentp\u00e9teri Csilla",
+        "popularity": 10,
+        "type": "artist",
+        "uri": "spotify:artist:13IsiEe5gCRFpWldWKQbht"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
+        },
+        "followers": {
+          "href": null,
+          "total": 5431
+        },
+        "genres": [
+          "hungarian rock",
+          "magyar alternative"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0oTbG6PYGGhT0vRYqByYEL",
+        "id": "0oTbG6PYGGhT0vRYqByYEL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebb72f7713b3221fc2a1215227",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174b72f7713b3221fc2a1215227",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178b72f7713b3221fc2a1215227",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Galaxisok",
+        "popularity": 32,
+        "type": "artist",
+        "uri": "spotify:artist:0oTbG6PYGGhT0vRYqByYEL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3j0FvSTCGzNlUt4IivrQcP"
+        },
+        "followers": {
+          "href": null,
+          "total": 6
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3j0FvSTCGzNlUt4IivrQcP",
+        "id": "3j0FvSTCGzNlUt4IivrQcP",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736faeb93d5e0f327f8bc04e74",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026faeb93d5e0f327f8bc04e74",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516faeb93d5e0f327f8bc04e74",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "B\u00e9ni Csillag",
+        "popularity": 1,
+        "type": "artist",
+        "uri": "spotify:artist:3j0FvSTCGzNlUt4IivrQcP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7kDEAMv0Mem8bBG4vwoENq"
+        },
+        "followers": {
+          "href": null,
+          "total": 4355
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7kDEAMv0Mem8bBG4vwoENq",
+        "id": "7kDEAMv0Mem8bBG4vwoENq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebf7deb2da9c637b6d1bd98d30",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174f7deb2da9c637b6d1bd98d30",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178f7deb2da9c637b6d1bd98d30",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Szalai",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:7kDEAMv0Mem8bBG4vwoENq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1nUhfophxbAMARWofQ0o9h"
+        },
+        "followers": {
+          "href": null,
+          "total": 7
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1nUhfophxbAMARWofQ0o9h",
+        "id": "1nUhfophxbAMARWofQ0o9h",
+        "images": [],
+        "name": "Brass\u00f3i Csillagok",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:1nUhfophxbAMARWofQ0o9h"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        },
+        "followers": {
+          "href": null,
+          "total": 19311
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6DM0KWyDnsqdKIfFvk6d8f",
+        "id": "6DM0KWyDnsqdKIfFvk6d8f",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebe86d5482ceeff3dfbb83160b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616100005174e86d5482ceeff3dfbb83160b",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f178e86d5482ceeff3dfbb83160b",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Sisi",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:6DM0KWyDnsqdKIfFvk6d8f"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6ivfXdclOmyaWw8kStwNCq"
+        },
+        "followers": {
+          "href": null,
+          "total": 4
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6ivfXdclOmyaWw8kStwNCq",
+        "id": "6ivfXdclOmyaWw8kStwNCq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aee0ace640b281114bc04619",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aee0ace640b281114bc04619",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aee0ace640b281114bc04619",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillagk\u00f6ly\u00f6k",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:6ivfXdclOmyaWw8kStwNCq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        },
+        "followers": {
+          "href": null,
+          "total": 1873
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2HVId5fHUsUJhDGXhU4Q5o",
+        "id": "2HVId5fHUsUJhDGXhU4Q5o",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb9dd8f5e8561525a79524ce3e",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051749dd8f5e8561525a79524ce3e",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1789dd8f5e8561525a79524ce3e",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "DO\u00d3R",
+        "popularity": 43,
+        "type": "artist",
+        "uri": "spotify:artist:2HVId5fHUsUJhDGXhU4Q5o"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7iUfFNJWtvKAD4gVtkXLsS"
+        },
+        "followers": {
+          "href": null,
+          "total": 4
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7iUfFNJWtvKAD4gVtkXLsS",
+        "id": "7iUfFNJWtvKAD4gVtkXLsS",
+        "images": [],
+        "name": "CsillagFr\u00f6ccs",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:7iUfFNJWtvKAD4gVtkXLsS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        },
+        "followers": {
+          "href": null,
+          "total": 7098
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5zNPKDqaFEf8JemuyGaC72",
+        "id": "5zNPKDqaFEf8JemuyGaC72",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb3e519f964916f33b62254586",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051743e519f964916f33b62254586",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1783e519f964916f33b62254586",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Kolibri",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:5zNPKDqaFEf8JemuyGaC72"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3GjJ0U49HQ3AhjxPB0A8Er"
+        },
+        "followers": {
+          "href": null,
+          "total": 14
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3GjJ0U49HQ3AhjxPB0A8Er",
+        "id": "3GjJ0U49HQ3AhjxPB0A8Er",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7af4acc49b72bd2b10d0f9c",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7af4acc49b72bd2b10d0f9c",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7af4acc49b72bd2b10d0f9c",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Csillagh Katalin",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:3GjJ0U49HQ3AhjxPB0A8Er"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq"
+        },
+        "followers": {
+          "href": null,
+          "total": 4216
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6yhyLqCUsp3DMQDRRb6iEq",
+        "id": "6yhyLqCUsp3DMQDRRb6iEq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb3a95d12aa6a6eb60478d1f11",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab676161000051743a95d12aa6a6eb60478d1f11",
+            "height": 320,
+            "width": 320
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6761610000f1783a95d12aa6a6eb60478d1f11",
+            "height": 160,
+            "width": 160
+          }
+        ],
+        "name": "Wavy",
+        "popularity": 41,
+        "type": "artist",
+        "uri": "spotify:artist:6yhyLqCUsp3DMQDRRb6iEq"
+      }
+    ]
+  }
+}
